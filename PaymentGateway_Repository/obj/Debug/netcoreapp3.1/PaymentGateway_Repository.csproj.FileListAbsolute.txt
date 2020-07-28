@@ -1,0 +1,15 @@
+C:\Users\akshita\source\repos\PaymentGateway_Repository\bin\Debug\netcoreapp3.1\PaymentGateway_Repository.deps.json
+C:\Users\akshita\source\repos\PaymentGateway_Repository\bin\Debug\netcoreapp3.1\PaymentGateway_Repository.dll
+C:\Users\akshita\source\repos\PaymentGateway_Repository\obj\Debug\netcoreapp3.1\PaymentGateway_Repository.csprojAssemblyReference.cache
+C:\Users\akshita\source\repos\PaymentGateway_Repository\obj\Debug\netcoreapp3.1\PaymentGateway_Repository.AssemblyInfoInputs.cache
+C:\Users\akshita\source\repos\PaymentGateway_Repository\obj\Debug\netcoreapp3.1\PaymentGateway_Repository.AssemblyInfo.cs
+C:\Users\akshita\source\repos\PaymentGateway_Repository\bin\Debug\netcoreapp3.1\PaymentGateway_Repository.pdb
+C:\Users\akshita\source\repos\PaymentGateway_Repository\bin\Debug\netcoreapp3.1\PaymentGateway_DataAccess.dll
+C:\Users\akshita\source\repos\PaymentGateway_Repository\bin\Debug\netcoreapp3.1\PaymentGateway_DataAccess.pdb
+C:\Users\akshita\source\repos\PaymentGateway_Repository\obj\Debug\netcoreapp3.1\PaymentGateway_Repository.csproj.CopyComplete
+C:\Users\akshita\source\repos\PaymentGateway_Repository\obj\Debug\netcoreapp3.1\PaymentGateway_Repository.dll
+C:\Users\akshita\source\repos\PaymentGateway_Repository\obj\Debug\netcoreapp3.1\PaymentGateway_Repository.pdb
+C:\Users\akshita\source\repos\PaymentGateway_Repository\bin\Debug\netcoreapp3.1\PaymentGateway_Repository.runtimeconfig.json
+C:\Users\akshita\source\repos\PaymentGateway_Repository\bin\Debug\netcoreapp3.1\PaymentGateway_Repository.runtimeconfig.dev.json
+C:\Users\akshita\source\repos\PaymentGateway_Repository\obj\Debug\netcoreapp3.1\PaymentGateway_Repository.csproj.CoreCompileInputs.cache
+C:\Users\akshita\source\repos\PaymentGateway_Repository\obj\Debug\netcoreapp3.1\PaymentGateway_Repository.genruntimeconfig.cache
